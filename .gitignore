@@ -1,0 +1,6 @@
+/target
+.DS_Store
+/docks.json
+.vscode
+index.scip
+*.log
