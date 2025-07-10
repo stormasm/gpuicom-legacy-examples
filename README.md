@@ -1,7 +1,7 @@
 
 This is a code snapshot / fork of
 [gpui-component](https://github.com/longbridge/gpui-component)
-prior to PR #1049 landing.
+prior to PR [1049](https://github.com/longbridge/gpui-component/pull/1049) landing.
 
 This PR removed around 19 examples which I wanted to preserve.
 
